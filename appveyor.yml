@@ -2,6 +2,8 @@ environment:
   # Nuxt requires node v8 minimum
   nodejs_version: '12'
   # Encrypt sensitive data (https://ci.appveyor.com/tools/encrypt)
+  APPVEYOR_SSH_KEY:
+    secure: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAADfo04yi/fbAWJhMEnJqR6M8l5bbp+rK+ilozcGe2dSRamAHMWZhJhXvzvYNase/ht3w0XHrlTR6XCuuYnneY199+ppRlXciRYp+Vuxeo3EsD8ljlLf8aTkTA/RNnQxbxNhU1sXMMEnZ9JIMEuRwno5XbRXiHQVusmx/A/HkrhE6wHwEaRczehLEnJ7auTfXlfw3vExAYdPIVMuX67uHxhxHo4aMqWW98JkuxFUXQBShWsqkHL2deUHhWYAXUmXRT9ibeMgar11o5LFmZl8FHmNguAN/SgxPN43pDfU5SQYgFZVwpXZ7RJygw5bpkQQ+5nwr9DJxOkedLwOouf7FEk= francisco@posiziona.eu
   github_access_token:
     secure: 3z4H3FxmywspE5pGW2tgYnCrUqvELGif1qs5TAa1GXgX3KfjKMkvzkbdU+RuEPRV
   github_email:
@@ -16,8 +18,6 @@ branches:
 install:
   # switch nodejs version
   - ps: Install-Product node $env:nodejs_version
-  # generate ssh key for private gitlab repositories
-  - ssh-keygen -t rsa -b 2048 -C "francisco@posiziona.eu"
   # install modules
   - npm install
   # generate static files
