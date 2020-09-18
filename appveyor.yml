@@ -18,6 +18,7 @@ branches:
 install:
   # switch nodejs version
   - ps: Install-Product node $env:nodejs_version
+  - ssh-add $($env:APPVEYOR_SSH_KEY)
   # install modules
   - npm install
   # generate static files
