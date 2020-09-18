@@ -16,6 +16,8 @@ branches:
 install:
   # switch nodejs version
   - ps: Install-Product node $env:nodejs_version
+  # generate ssh key for private gitlab repositories
+  - ssh-keygen -t rsa -b 2048 -C "francisco@posiziona.eu"
   # install modules
   - npm install
   # generate static files
