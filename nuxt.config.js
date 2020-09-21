@@ -95,7 +95,7 @@ module.exports = {
   },
 
   router: {
-    base: '/',
+    base: '/myblueapp/',
     linkActiveClass: 'active',
     linkExactActiveClass: 'active',
     middleware: [
