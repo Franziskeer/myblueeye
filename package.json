@@ -68,6 +68,7 @@
     "nuxt": "^2.12.2",
     "postcss-rtl": "^1.5.0",
     "prettier": "^1.18.2",
+    "push-dir": "^0.4.1",
     "sass-loader": "^8.0.0",
     "surge": "^0.21.3"
   }
