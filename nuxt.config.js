@@ -109,7 +109,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    publicPath: '/static/',
+    publicPath: '/dist/_nuxt/',
     extractCSS: true,
     filenames: {
       app: ({ isDev }) => isDev ? '[name].js' : '[chunkhash].js',
