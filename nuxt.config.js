@@ -7,6 +7,7 @@ const fallbackLocale = i18nConfig.fallbackLocale
 const dateTimeFormats = i18nConfig.dateTimeFormats
 const numberFormats = i18nConfig.numberFormats
 const locales = i18nConfig.locales
+const base = 'gh-pages' === process.env.NODE_ENV ? '/myblueeye/' : '/';
 
 module.exports = {
   ssr: false,
@@ -96,7 +97,7 @@ module.exports = {
   },
 
   router: {
-    base: '/',
+    base,
     linkActiveClass: 'active',
     linkExactActiveClass: 'active',
     middleware: [
@@ -108,6 +109,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    publicPath: '/static/',
     extractCSS: true,
     filenames: {
       app: ({ isDev }) => isDev ? '[name].js' : '[chunkhash].js',
