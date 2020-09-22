@@ -11,7 +11,7 @@ const locales = i18nConfig.locales
 module.exports = {
   ssr: false,
   mode: 'spa',
-  
+
   target: 'static',
   /*
   ** Headers of the page
@@ -96,7 +96,7 @@ module.exports = {
   },
 
   router: {
-    base: '/myblueapp/',
+    base: '/',
     linkActiveClass: 'active',
     linkExactActiveClass: 'active',
     middleware: [
