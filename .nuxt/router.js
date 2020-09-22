@@ -98,7 +98,7 @@ Vue.use(Router)
 
 export const routerOptions = {
   mode: 'history',
-  base: decodeURI('/myblueapp/'),
+  base: decodeURI('/'),
   linkActiveClass: 'active',
   linkExactActiveClass: 'active',
   scrollBehavior,
