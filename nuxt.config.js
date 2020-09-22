@@ -9,9 +9,10 @@ const numberFormats = i18nConfig.numberFormats
 const locales = i18nConfig.locales
 
 module.exports = {
-  target: 'static',
+  ssr: false,
   mode: 'spa',
-
+  
+  target: 'static',
   /*
   ** Headers of the page
   */
