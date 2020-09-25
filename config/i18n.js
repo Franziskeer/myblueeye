@@ -3,7 +3,7 @@ export const fallbackLocale = 'en'
 
 export const locales = [
   { code: 'en', iso: 'en-US', file: 'en.json' },
-  { code: 'es', iso: 'es-ES', file: 'es.json' }
+  { code: 'ro', iso: 'ro-RO', file: 'ro.json' },
 ]
 
 export const dateTimeFormats = {
@@ -14,7 +14,7 @@ export const dateTimeFormats = {
       day: 'numeric'
     }
   },
-  'es-ES': {
+  'ro-RO': {
     short: {
       year: 'numeric',
       month: 'long',
@@ -29,9 +29,9 @@ export const numberFormats = {
       style: 'currency', currency: 'USD'
     }
   },
-  'es-ES': {
+  'ro-RO': {
     currency: {
-      style: 'currency', currency: 'EUR'
+      style: 'currency', currency: 'RON'
     }
   }
 }

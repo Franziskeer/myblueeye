@@ -3,6 +3,7 @@ import Vue from 'vue'
 import { getMatchedComponentsInstances, getChildrenComponentInstancesUsingFetch, promisify, globalHandleError, urlJoin, sanitizeComponent } from './utils'
 import NuxtError from '../layouts/error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
+import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
 import '../node_modules/bootstrap-vue/dist/bootstrap-vue.css'
 
@@ -18,10 +19,9 @@ import _77180f1e from '../layouts/blank.vue'
 import _7719c174 from '../layouts/boxed.vue'
 import _6f6c098b from '../layouts/default.vue'
 import _774f653e from '../layouts/fixed.vue'
-import _7eda491b from '../layouts/mockup.vue'
 import _ed3f2542 from '../layouts/sticky.vue'
 
-const layouts = { "_blank": sanitizeComponent(_77180f1e),"_boxed": sanitizeComponent(_7719c174),"_default": sanitizeComponent(_6f6c098b),"_fixed": sanitizeComponent(_774f653e),"_mockup": sanitizeComponent(_7eda491b),"_sticky": sanitizeComponent(_ed3f2542) }
+const layouts = { "_blank": sanitizeComponent(_77180f1e),"_boxed": sanitizeComponent(_7719c174),"_default": sanitizeComponent(_6f6c098b),"_fixed": sanitizeComponent(_774f653e),"_sticky": sanitizeComponent(_ed3f2542) }
 
 export default {
   render (h, props) {
@@ -56,7 +56,7 @@ export default {
       }
     }, [
       loadingEl,
-
+      h(NuxtBuildIndicator),
       transitionEl
     ])
   },
@@ -106,10 +106,6 @@ export default {
 
     isFetching () {
       return this.nbFetching > 0
-    },
-
-    isPreview () {
-      return Boolean(this.$options.previewData)
     },
   },
 
@@ -173,19 +169,32 @@ export default {
       }
       this.$loading.finish()
     },
-
     errorChanged () {
-      if (this.nuxt.err && this.$loading) {
-        if (this.$loading.fail) {
-          this.$loading.fail(this.nuxt.err)
+      if (this.nuxt.err) {
+        if (this.$loading) {
+          if (this.$loading.fail) {
+            this.$loading.fail(this.nuxt.err)
+          }
+          if (this.$loading.finish) {
+            this.$loading.finish()
+          }
         }
-        if (this.$loading.finish) {
-          this.$loading.finish()
+
+        let errorLayout = (NuxtError.options || NuxtError).layout;
+
+        if (typeof errorLayout === 'function') {
+          errorLayout = errorLayout(this.context)
         }
+
+        this.setLayout(errorLayout)
       }
     },
 
     setLayout (layout) {
+      if(layout && typeof layout !== 'string') {
+        throw new Error('[nuxt] Avoid using non-string value as layout property.')
+      }
+
       if (!layout || !layouts['_' + layout]) {
         layout = 'default'
       }

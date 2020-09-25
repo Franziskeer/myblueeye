@@ -1,6 +1,6 @@
 export const state = () => ({
   brand: 'My Blue Eye',
-  docsHostname: 'www.theeyeblue.com'
+  docsHostname: 'www.myblueye.shareplay.org'
 })
 
 export const getters = {

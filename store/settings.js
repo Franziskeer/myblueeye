@@ -1,7 +1,8 @@
 export const state = () => ({
-  ui: false,
+  ui: true,
   state: {
     layout: {
+      //layout: 'default',
       layout: 'fixed',
       rtl: false
     },

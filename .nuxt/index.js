@@ -13,9 +13,9 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
+import nuxt_plugin_bootstrapvue_6d8eb3e0 from 'nuxt_plugin_bootstrapvue_6d8eb3e0' // Source: ./bootstrap-vue.js (mode: 'all')
 import nuxt_plugin_pluginrouting_113aba75 from 'nuxt_plugin_pluginrouting_113aba75' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
 import nuxt_plugin_pluginmain_795765cc from 'nuxt_plugin_pluginmain_795765cc' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
-import nuxt_plugin_bootstrapvue_6d8eb3e0 from 'nuxt_plugin_bootstrapvue_6d8eb3e0' // Source: ./bootstrap-vue.js (mode: 'all')
 import nuxt_plugin_axios_2c1b16b1 from 'nuxt_plugin_axios_2c1b16b1' // Source: ./axios.js (mode: 'all')
 import nuxt_plugin_vendor_2f1618f9 from 'nuxt_plugin_vendor_2f1618f9' // Source: ../plugins/vendor.js (mode: 'all')
 import nuxt_plugin_quill_f9dc64e4 from 'nuxt_plugin_quill_f9dc64e4' // Source: ../plugins/quill (mode: 'client')
@@ -70,7 +70,7 @@ async function createApp(ssrContext, config = {}) {
   const app = {
     head: function() {
     return {
-      title: 'The Eye Blue',
+      title: 'My Blue Eye',
       htmlAttrs: {
         dir: `${this.$store && this.$store.getters.settings.layout.rtl ? 'rtl' : 'ltr'}`
       },
@@ -214,16 +214,16 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
+  if (typeof nuxt_plugin_bootstrapvue_6d8eb3e0 === 'function') {
+    await nuxt_plugin_bootstrapvue_6d8eb3e0(app.context, inject)
+  }
+
   if (typeof nuxt_plugin_pluginrouting_113aba75 === 'function') {
     await nuxt_plugin_pluginrouting_113aba75(app.context, inject)
   }
 
   if (typeof nuxt_plugin_pluginmain_795765cc === 'function') {
     await nuxt_plugin_pluginmain_795765cc(app.context, inject)
-  }
-
-  if (typeof nuxt_plugin_bootstrapvue_6d8eb3e0 === 'function') {
-    await nuxt_plugin_bootstrapvue_6d8eb3e0(app.context, inject)
   }
 
   if (typeof nuxt_plugin_axios_2c1b16b1 === 'function') {

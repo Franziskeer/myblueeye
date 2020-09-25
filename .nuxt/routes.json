@@ -3,1162 +3,996 @@
     "name": "documentation___en",
     "path": "/documentation",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/index.vue",
-    "chunkName": "pages/documentation/index",
-    "_name": "_3d6ce610"
-  },
-  {
-    "name": "index___es",
-    "path": "/es",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_51664f4d"
+    "chunkName": "pages/documentation/index"
   },
   {
     "name": "forgot-password___en",
     "path": "/forgot-password",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/forgot-password.vue",
-    "chunkName": "pages/forgot-password",
-    "_name": "_b887f180"
+    "chunkName": "pages/forgot-password"
   },
   {
     "name": "landing___en",
     "path": "/landing",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/landing/index.vue",
-    "chunkName": "pages/landing/index",
-    "_name": "_1e944a55"
+    "chunkName": "pages/landing/index"
   },
   {
     "name": "login___en",
     "path": "/login",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/login.vue",
-    "chunkName": "pages/login",
-    "_name": "_1b0df264"
+    "chunkName": "pages/login"
   },
   {
     "name": "messages___en",
     "path": "/messages",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/messages.vue",
-    "chunkName": "pages/messages",
-    "_name": "_3480b221"
+    "chunkName": "pages/messages"
   },
   {
     "name": "pricing___en",
     "path": "/pricing",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/pricing.vue",
-    "chunkName": "pages/pricing",
-    "_name": "_466100fe"
+    "chunkName": "pages/pricing"
+  },
+  {
+    "name": "index___ro",
+    "path": "/ro",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/index.vue",
+    "chunkName": "pages/index"
   },
   {
     "name": "signup___en",
     "path": "/signup",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/signup.vue",
-    "chunkName": "pages/signup",
-    "_name": "_d9eb71a6"
+    "chunkName": "pages/signup"
   },
   {
     "name": "account-invoice___en",
     "path": "/account/invoice",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/invoice.vue",
-    "chunkName": "pages/account/invoice",
-    "_name": "_743760f4"
+    "chunkName": "pages/account/invoice"
   },
   {
     "name": "community-blog___en",
     "path": "/community/blog",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/blog.vue",
-    "chunkName": "pages/community/blog",
-    "_name": "_bec029c6"
+    "chunkName": "pages/community/blog"
   },
   {
     "name": "community-blog-post___en",
     "path": "/community/blog-post",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/blog-post.vue",
-    "chunkName": "pages/community/blog-post",
-    "_name": "_06f85e00"
+    "chunkName": "pages/community/blog-post"
   },
   {
     "name": "community-discussion___en",
     "path": "/community/discussion",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/discussion.vue",
-    "chunkName": "pages/community/discussion",
-    "_name": "_52350a63"
+    "chunkName": "pages/community/discussion"
   },
   {
     "name": "community-discussions___en",
     "path": "/community/discussions",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/discussions.vue",
-    "chunkName": "pages/community/discussions",
-    "_name": "_0fd039c0"
+    "chunkName": "pages/community/discussions"
   },
   {
     "name": "community-discussions-ask___en",
     "path": "/community/discussions-ask",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/discussions-ask.vue",
-    "chunkName": "pages/community/discussions-ask",
-    "_name": "_59224f68"
+    "chunkName": "pages/community/discussions-ask"
   },
   {
     "name": "community-faq___en",
     "path": "/community/faq",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/faq.vue",
-    "chunkName": "pages/community/faq",
-    "_name": "_7bb2d06b"
+    "chunkName": "pages/community/faq"
   },
   {
     "name": "community-help-center___en",
     "path": "/community/help-center",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/help-center.vue",
-    "chunkName": "pages/community/help-center",
-    "_name": "_76528736"
+    "chunkName": "pages/community/help-center"
   },
   {
     "name": "community-instructor-profile___en",
     "path": "/community/instructor-profile",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/instructor-profile.vue",
-    "chunkName": "pages/community/instructor-profile",
-    "_name": "_34810198"
+    "chunkName": "pages/community/instructor-profile"
   },
   {
     "name": "community-student-profile___en",
     "path": "/community/student-profile",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/student-profile.vue",
-    "chunkName": "pages/community/student-profile",
-    "_name": "_7f1ea528"
+    "chunkName": "pages/community/student-profile"
   },
   {
     "name": "community-teachers___en",
     "path": "/community/teachers",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/teachers.vue",
-    "chunkName": "pages/community/teachers",
-    "_name": "_122cd968"
+    "chunkName": "pages/community/teachers"
   },
   {
     "name": "documentation-components___en",
     "path": "/documentation/components",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/components.vue",
-    "chunkName": "pages/documentation/components",
-    "_name": "_baa48e40"
+    "chunkName": "pages/documentation/components"
   },
   {
     "name": "documentation-installation___en",
     "path": "/documentation/installation",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/installation.vue",
-    "chunkName": "pages/documentation/installation",
-    "_name": "_dd54c4f8"
+    "chunkName": "pages/documentation/installation"
   },
   {
     "name": "documentation-layouts___en",
     "path": "/documentation/layouts",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/layouts.vue",
-    "chunkName": "pages/documentation/layouts",
-    "_name": "_1cecafaf"
+    "chunkName": "pages/documentation/layouts"
   },
   {
     "name": "documentation-navbar___en",
     "path": "/documentation/navbar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/navbar.vue",
-    "chunkName": "pages/documentation/navbar",
-    "_name": "_115e2dda"
+    "chunkName": "pages/documentation/navbar"
   },
   {
     "name": "documentation-pages___en",
     "path": "/documentation/pages",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/pages.vue",
-    "chunkName": "pages/documentation/pages",
-    "_name": "_47258aea"
+    "chunkName": "pages/documentation/pages"
   },
   {
     "name": "documentation-project-structure___en",
     "path": "/documentation/project-structure",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/project-structure.vue",
-    "chunkName": "pages/documentation/project-structure",
-    "_name": "_28c05f36"
+    "chunkName": "pages/documentation/project-structure"
   },
   {
     "name": "documentation-rtl___en",
     "path": "/documentation/rtl",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/rtl.vue",
-    "chunkName": "pages/documentation/rtl",
-    "_name": "_2cda43e0"
+    "chunkName": "pages/documentation/rtl"
   },
   {
     "name": "documentation-settings___en",
     "path": "/documentation/settings",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/settings.vue",
-    "chunkName": "pages/documentation/settings",
-    "_name": "_0586f026"
+    "chunkName": "pages/documentation/settings"
   },
   {
     "name": "documentation-sidebar___en",
     "path": "/documentation/sidebar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/sidebar.vue",
-    "chunkName": "pages/documentation/sidebar",
-    "_name": "_e900a1fc"
+    "chunkName": "pages/documentation/sidebar"
   },
   {
     "name": "documentation-sidebar-menu___en",
     "path": "/documentation/sidebar-menu",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/sidebar-menu.vue",
-    "chunkName": "pages/documentation/sidebar-menu",
-    "_name": "_08a08d0c"
+    "chunkName": "pages/documentation/sidebar-menu"
   },
   {
     "name": "documentation-translation___en",
     "path": "/documentation/translation",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/translation.vue",
-    "chunkName": "pages/documentation/translation",
-    "_name": "_528facd7"
+    "chunkName": "pages/documentation/translation"
   },
   {
     "name": "documentation-vuex-store___en",
     "path": "/documentation/vuex-store",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/vuex-store.vue",
-    "chunkName": "pages/documentation/vuex-store",
-    "_name": "_cfc3b660"
-  },
-  {
-    "name": "documentation___es",
-    "path": "/es/documentation",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/index.vue",
-    "chunkName": "pages/documentation/index",
-    "_name": "_3d6ce610"
-  },
-  {
-    "name": "forgot-password___es",
-    "path": "/es/forgot-password",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/forgot-password.vue",
-    "chunkName": "pages/forgot-password",
-    "_name": "_b887f180"
-  },
-  {
-    "name": "landing___es",
-    "path": "/es/landing",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/landing/index.vue",
-    "chunkName": "pages/landing/index",
-    "_name": "_1e944a55"
-  },
-  {
-    "name": "login___es",
-    "path": "/es/login",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/login.vue",
-    "chunkName": "pages/login",
-    "_name": "_1b0df264"
-  },
-  {
-    "name": "messages___es",
-    "path": "/es/messages",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/messages.vue",
-    "chunkName": "pages/messages",
-    "_name": "_3480b221"
-  },
-  {
-    "name": "pricing___es",
-    "path": "/es/pricing",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/pricing.vue",
-    "chunkName": "pages/pricing",
-    "_name": "_466100fe"
-  },
-  {
-    "name": "signup___es",
-    "path": "/es/signup",
-    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/signup.vue",
-    "chunkName": "pages/signup",
-    "_name": "_d9eb71a6"
+    "chunkName": "pages/documentation/vuex-store"
   },
   {
     "name": "instructor-courses___en",
     "path": "/instructor/courses",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/courses.vue",
-    "chunkName": "pages/instructor/courses",
-    "_name": "_812e804a"
+    "chunkName": "pages/instructor/courses"
   },
   {
     "name": "instructor-dashboard___en",
     "path": "/instructor/dashboard",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/dashboard.vue",
-    "chunkName": "pages/instructor/dashboard",
-    "_name": "_475881f7"
+    "chunkName": "pages/instructor/dashboard"
   },
   {
     "name": "instructor-earnings___en",
     "path": "/instructor/earnings",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/earnings.vue",
-    "chunkName": "pages/instructor/earnings",
-    "_name": "_b1bf02d4"
+    "chunkName": "pages/instructor/earnings"
   },
   {
     "name": "instructor-edit-course___en",
     "path": "/instructor/edit-course",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/edit-course.vue",
-    "chunkName": "pages/instructor/edit-course",
-    "_name": "_43c788e1"
+    "chunkName": "pages/instructor/edit-course"
   },
   {
     "name": "instructor-edit-quiz___en",
     "path": "/instructor/edit-quiz",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/edit-quiz.vue",
-    "chunkName": "pages/instructor/edit-quiz",
-    "_name": "_20e1319b"
+    "chunkName": "pages/instructor/edit-quiz"
   },
   {
     "name": "instructor-quizzes___en",
     "path": "/instructor/quizzes",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/quizzes.vue",
-    "chunkName": "pages/instructor/quizzes",
-    "_name": "_5bc2fed6"
+    "chunkName": "pages/instructor/quizzes"
   },
   {
     "name": "instructor-statement___en",
     "path": "/instructor/statement",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/statement.vue",
-    "chunkName": "pages/instructor/statement",
-    "_name": "_ed78495c"
+    "chunkName": "pages/instructor/statement"
   },
   {
     "name": "landing-luma-bootstrap-html___en",
     "path": "/landing/luma-bootstrap-html",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/landing/luma-bootstrap-html.vue",
-    "chunkName": "pages/landing/luma-bootstrap-html",
-    "_name": "_5d8050dd"
+    "chunkName": "pages/landing/luma-bootstrap-html"
   },
   {
     "name": "landing-luma-vue-nuxt___en",
     "path": "/landing/luma-vue-nuxt",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/landing/luma-vue-nuxt.vue",
-    "chunkName": "pages/landing/luma-vue-nuxt",
-    "_name": "_a0139746"
+    "chunkName": "pages/landing/luma-vue-nuxt"
+  },
+  {
+    "name": "documentation___ro",
+    "path": "/ro/documentation",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/index.vue",
+    "chunkName": "pages/documentation/index"
+  },
+  {
+    "name": "forgot-password___ro",
+    "path": "/ro/forgot-password",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/forgot-password.vue",
+    "chunkName": "pages/forgot-password"
+  },
+  {
+    "name": "landing___ro",
+    "path": "/ro/landing",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/landing/index.vue",
+    "chunkName": "pages/landing/index"
+  },
+  {
+    "name": "login___ro",
+    "path": "/ro/login",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "messages___ro",
+    "path": "/ro/messages",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/messages.vue",
+    "chunkName": "pages/messages"
+  },
+  {
+    "name": "pricing___ro",
+    "path": "/ro/pricing",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/pricing.vue",
+    "chunkName": "pages/pricing"
+  },
+  {
+    "name": "signup___ro",
+    "path": "/ro/signup",
+    "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/signup.vue",
+    "chunkName": "pages/signup"
   },
   {
     "name": "student-course___en",
     "path": "/student/course",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/course.vue",
-    "chunkName": "pages/student/course",
-    "_name": "_fab047f8"
+    "chunkName": "pages/student/course"
   },
   {
     "name": "student-courses___en",
     "path": "/student/courses",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/courses.vue",
-    "chunkName": "pages/student/courses",
-    "_name": "_540174c2"
+    "chunkName": "pages/student/courses"
   },
   {
     "name": "student-dashboard___en",
     "path": "/student/dashboard",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/dashboard.vue",
-    "chunkName": "pages/student/dashboard",
-    "_name": "_1264a6bb"
+    "chunkName": "pages/student/dashboard"
   },
   {
     "name": "student-home___en",
     "path": "/student/home",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/home.vue",
-    "chunkName": "pages/student/home",
-    "_name": "_424d6f08"
+    "chunkName": "pages/student/home"
   },
   {
     "name": "student-lesson___en",
     "path": "/student/lesson",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/lesson.vue",
-    "chunkName": "pages/student/lesson",
-    "_name": "_a5405abe"
+    "chunkName": "pages/student/lesson"
   },
   {
     "name": "student-my-courses___en",
     "path": "/student/my-courses",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/my-courses.vue",
-    "chunkName": "pages/student/my-courses",
-    "_name": "_f46b9400"
+    "chunkName": "pages/student/my-courses"
   },
   {
     "name": "student-my-paths___en",
     "path": "/student/my-paths",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/my-paths.vue",
-    "chunkName": "pages/student/my-paths",
-    "_name": "_31b25794"
+    "chunkName": "pages/student/my-paths"
   },
   {
     "name": "student-my-quizzes___en",
     "path": "/student/my-quizzes",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/my-quizzes.vue",
-    "chunkName": "pages/student/my-quizzes",
-    "_name": "_222474fb"
+    "chunkName": "pages/student/my-quizzes"
   },
   {
     "name": "student-path___en",
     "path": "/student/path",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/path.vue",
-    "chunkName": "pages/student/path",
-    "_name": "_ae486964"
+    "chunkName": "pages/student/path"
   },
   {
     "name": "student-paths___en",
     "path": "/student/paths",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/paths.vue",
-    "chunkName": "pages/student/paths",
-    "_name": "_76493f95"
+    "chunkName": "pages/student/paths"
   },
   {
     "name": "student-quiz-result___en",
     "path": "/student/quiz-result",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/quiz-result.vue",
-    "chunkName": "pages/student/quiz-result",
-    "_name": "_29fde27c"
+    "chunkName": "pages/student/quiz-result"
   },
   {
     "name": "student-skill-assessment___en",
     "path": "/student/skill-assessment",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/skill-assessment.vue",
-    "chunkName": "pages/student/skill-assessment",
-    "_name": "_289fcce7"
+    "chunkName": "pages/student/skill-assessment"
   },
   {
     "name": "student-skill-result___en",
     "path": "/student/skill-result",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/skill-result.vue",
-    "chunkName": "pages/student/skill-result",
-    "_name": "_5c9e8742"
+    "chunkName": "pages/student/skill-result"
   },
   {
     "name": "student-take-course___en",
     "path": "/student/take-course",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/take-course.vue",
-    "chunkName": "pages/student/take-course",
-    "_name": "_f78673f0"
+    "chunkName": "pages/student/take-course"
   },
   {
     "name": "student-take-lesson___en",
     "path": "/student/take-lesson",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/take-lesson.vue",
-    "chunkName": "pages/student/take-lesson",
-    "_name": "_a21686b6"
+    "chunkName": "pages/student/take-lesson"
   },
   {
     "name": "student-take-quiz___en",
     "path": "/student/take-quiz",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/take-quiz.vue",
-    "chunkName": "pages/student/take-quiz",
-    "_name": "_affce6fc"
+    "chunkName": "pages/student/take-quiz"
   },
   {
     "name": "account-edit-basic___en",
     "path": "/account/edit/basic",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/basic.vue",
-    "chunkName": "pages/account/edit/basic",
-    "_name": "_2dfc4220"
+    "chunkName": "pages/account/edit/basic"
   },
   {
     "name": "account-edit-payment-history___en",
     "path": "/account/edit/payment-history",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/payment-history.vue",
-    "chunkName": "pages/account/edit/payment-history",
-    "_name": "_cbcf1c82"
+    "chunkName": "pages/account/edit/payment-history"
   },
   {
     "name": "account-edit-payment-information___en",
     "path": "/account/edit/payment-information",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/payment-information.vue",
-    "chunkName": "pages/account/edit/payment-information",
-    "_name": "_521a74d7"
+    "chunkName": "pages/account/edit/payment-information"
   },
   {
     "name": "account-edit-profile___en",
     "path": "/account/edit/profile",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/profile.vue",
-    "chunkName": "pages/account/edit/profile",
-    "_name": "_1ac3939b"
+    "chunkName": "pages/account/edit/profile"
   },
   {
     "name": "account-edit-subscription___en",
     "path": "/account/edit/subscription",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/subscription.vue",
-    "chunkName": "pages/account/edit/subscription",
-    "_name": "_f55f8cca"
+    "chunkName": "pages/account/edit/subscription"
   },
   {
     "name": "account-edit-upgrade___en",
     "path": "/account/edit/upgrade",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/upgrade.vue",
-    "chunkName": "pages/account/edit/upgrade",
-    "_name": "_bb8b9ae4"
+    "chunkName": "pages/account/edit/upgrade"
   },
   {
     "name": "components-layout-drawer___en",
     "path": "/components/layout/drawer",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/drawer.vue",
-    "chunkName": "pages/components/layout/drawer",
-    "_name": "_976a0adc"
+    "chunkName": "pages/components/layout/drawer"
   },
   {
     "name": "components-layout-drawer-layout___en",
     "path": "/components/layout/drawer-layout",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/drawer-layout.vue",
-    "chunkName": "pages/components/layout/drawer-layout",
-    "_name": "_0f231f75"
+    "chunkName": "pages/components/layout/drawer-layout"
   },
   {
     "name": "components-layout-header___en",
     "path": "/components/layout/header",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/header.vue",
-    "chunkName": "pages/components/layout/header",
-    "_name": "_10e0b62e"
+    "chunkName": "pages/components/layout/header"
   },
   {
     "name": "components-layout-header-layout___en",
     "path": "/components/layout/header-layout",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/header-layout.vue",
-    "chunkName": "pages/components/layout/header-layout",
-    "_name": "_19ec5c59"
+    "chunkName": "pages/components/layout/header-layout"
   },
   {
     "name": "components-layout-perfect-scrollbar___en",
     "path": "/components/layout/perfect-scrollbar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/perfect-scrollbar.vue",
-    "chunkName": "pages/components/layout/perfect-scrollbar",
-    "_name": "_7237bcd5"
+    "chunkName": "pages/components/layout/perfect-scrollbar"
   },
   {
     "name": "components-layout-sidebar___en",
     "path": "/components/layout/sidebar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/sidebar.vue",
-    "chunkName": "pages/components/layout/sidebar",
-    "_name": "_a2731cea"
+    "chunkName": "pages/components/layout/sidebar"
   },
   {
     "name": "components-layout-sidebar-menu___en",
     "path": "/components/layout/sidebar-menu",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/sidebar-menu.vue",
-    "chunkName": "pages/components/layout/sidebar-menu",
-    "_name": "_2bcbb6de"
+    "chunkName": "pages/components/layout/sidebar-menu"
   },
   {
     "name": "components-plugins-syntax-highlight___en",
     "path": "/components/plugins/syntax-highlight",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/syntax-highlight.vue",
-    "chunkName": "pages/components/plugins/syntax-highlight",
-    "_name": "_036ec5ed"
+    "chunkName": "pages/components/plugins/syntax-highlight"
   },
   {
     "name": "components-ui-alerts___en",
     "path": "/components/ui/alerts",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/alerts.vue",
-    "chunkName": "pages/components/ui/alerts",
-    "_name": "_7d30498e"
+    "chunkName": "pages/components/ui/alerts"
   },
   {
     "name": "components-ui-avatar___en",
     "path": "/components/ui/avatar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/avatar.vue",
-    "chunkName": "pages/components/ui/avatar",
-    "_name": "_1cab9160"
+    "chunkName": "pages/components/ui/avatar"
   },
   {
     "name": "components-ui-cards___en",
     "path": "/components/ui/cards",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/cards.vue",
-    "chunkName": "pages/components/ui/cards",
-    "_name": "_1bfa20bc"
+    "chunkName": "pages/components/ui/cards"
   },
   {
     "name": "components-ui-form-image-group___en",
     "path": "/components/ui/form-image-group",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/form-image-group.vue",
-    "chunkName": "pages/components/ui/form-image-group",
-    "_name": "_05ce39bb"
+    "chunkName": "pages/components/ui/form-image-group"
   },
   {
     "name": "components-ui-forms___en",
     "path": "/components/ui/forms",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/forms.vue",
-    "chunkName": "pages/components/ui/forms",
-    "_name": "_d31900f0"
+    "chunkName": "pages/components/ui/forms"
   },
   {
     "name": "components-ui-icons___en",
     "path": "/components/ui/icons",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/icons.vue",
-    "chunkName": "pages/components/ui/icons",
-    "_name": "_50964e1a"
+    "chunkName": "pages/components/ui/icons"
   },
   {
     "name": "components-ui-input-group-merge___en",
     "path": "/components/ui/input-group-merge",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/input-group-merge.vue",
-    "chunkName": "pages/components/ui/input-group-merge",
-    "_name": "_6002c880"
+    "chunkName": "pages/components/ui/input-group-merge"
   },
   {
     "name": "components-ui-tabs___en",
     "path": "/components/ui/tabs",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/tabs.vue",
-    "chunkName": "pages/components/ui/tabs",
-    "_name": "_77ff0a96"
+    "chunkName": "pages/components/ui/tabs"
   },
   {
-    "name": "account-invoice___es",
-    "path": "/es/account/invoice",
+    "name": "account-invoice___ro",
+    "path": "/ro/account/invoice",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/invoice.vue",
-    "chunkName": "pages/account/invoice",
-    "_name": "_743760f4"
+    "chunkName": "pages/account/invoice"
   },
   {
-    "name": "community-blog___es",
-    "path": "/es/community/blog",
+    "name": "community-blog___ro",
+    "path": "/ro/community/blog",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/blog.vue",
-    "chunkName": "pages/community/blog",
-    "_name": "_bec029c6"
+    "chunkName": "pages/community/blog"
   },
   {
-    "name": "community-blog-post___es",
-    "path": "/es/community/blog-post",
+    "name": "community-blog-post___ro",
+    "path": "/ro/community/blog-post",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/blog-post.vue",
-    "chunkName": "pages/community/blog-post",
-    "_name": "_06f85e00"
+    "chunkName": "pages/community/blog-post"
   },
   {
-    "name": "community-discussion___es",
-    "path": "/es/community/discussion",
+    "name": "community-discussion___ro",
+    "path": "/ro/community/discussion",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/discussion.vue",
-    "chunkName": "pages/community/discussion",
-    "_name": "_52350a63"
+    "chunkName": "pages/community/discussion"
   },
   {
-    "name": "community-discussions___es",
-    "path": "/es/community/discussions",
+    "name": "community-discussions___ro",
+    "path": "/ro/community/discussions",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/discussions.vue",
-    "chunkName": "pages/community/discussions",
-    "_name": "_0fd039c0"
+    "chunkName": "pages/community/discussions"
   },
   {
-    "name": "community-discussions-ask___es",
-    "path": "/es/community/discussions-ask",
+    "name": "community-discussions-ask___ro",
+    "path": "/ro/community/discussions-ask",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/discussions-ask.vue",
-    "chunkName": "pages/community/discussions-ask",
-    "_name": "_59224f68"
+    "chunkName": "pages/community/discussions-ask"
   },
   {
-    "name": "community-faq___es",
-    "path": "/es/community/faq",
+    "name": "community-faq___ro",
+    "path": "/ro/community/faq",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/faq.vue",
-    "chunkName": "pages/community/faq",
-    "_name": "_7bb2d06b"
+    "chunkName": "pages/community/faq"
   },
   {
-    "name": "community-help-center___es",
-    "path": "/es/community/help-center",
+    "name": "community-help-center___ro",
+    "path": "/ro/community/help-center",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/help-center.vue",
-    "chunkName": "pages/community/help-center",
-    "_name": "_76528736"
+    "chunkName": "pages/community/help-center"
   },
   {
-    "name": "community-instructor-profile___es",
-    "path": "/es/community/instructor-profile",
+    "name": "community-instructor-profile___ro",
+    "path": "/ro/community/instructor-profile",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/instructor-profile.vue",
-    "chunkName": "pages/community/instructor-profile",
-    "_name": "_34810198"
+    "chunkName": "pages/community/instructor-profile"
   },
   {
-    "name": "community-student-profile___es",
-    "path": "/es/community/student-profile",
+    "name": "community-student-profile___ro",
+    "path": "/ro/community/student-profile",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/student-profile.vue",
-    "chunkName": "pages/community/student-profile",
-    "_name": "_7f1ea528"
+    "chunkName": "pages/community/student-profile"
   },
   {
-    "name": "community-teachers___es",
-    "path": "/es/community/teachers",
+    "name": "community-teachers___ro",
+    "path": "/ro/community/teachers",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/community/teachers.vue",
-    "chunkName": "pages/community/teachers",
-    "_name": "_122cd968"
+    "chunkName": "pages/community/teachers"
   },
   {
-    "name": "documentation-components___es",
-    "path": "/es/documentation/components",
+    "name": "documentation-components___ro",
+    "path": "/ro/documentation/components",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/components.vue",
-    "chunkName": "pages/documentation/components",
-    "_name": "_baa48e40"
+    "chunkName": "pages/documentation/components"
   },
   {
-    "name": "documentation-installation___es",
-    "path": "/es/documentation/installation",
+    "name": "documentation-installation___ro",
+    "path": "/ro/documentation/installation",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/installation.vue",
-    "chunkName": "pages/documentation/installation",
-    "_name": "_dd54c4f8"
+    "chunkName": "pages/documentation/installation"
   },
   {
-    "name": "documentation-layouts___es",
-    "path": "/es/documentation/layouts",
+    "name": "documentation-layouts___ro",
+    "path": "/ro/documentation/layouts",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/layouts.vue",
-    "chunkName": "pages/documentation/layouts",
-    "_name": "_1cecafaf"
+    "chunkName": "pages/documentation/layouts"
   },
   {
-    "name": "documentation-navbar___es",
-    "path": "/es/documentation/navbar",
+    "name": "documentation-navbar___ro",
+    "path": "/ro/documentation/navbar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/navbar.vue",
-    "chunkName": "pages/documentation/navbar",
-    "_name": "_115e2dda"
+    "chunkName": "pages/documentation/navbar"
   },
   {
-    "name": "documentation-pages___es",
-    "path": "/es/documentation/pages",
+    "name": "documentation-pages___ro",
+    "path": "/ro/documentation/pages",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/pages.vue",
-    "chunkName": "pages/documentation/pages",
-    "_name": "_47258aea"
+    "chunkName": "pages/documentation/pages"
   },
   {
-    "name": "documentation-project-structure___es",
-    "path": "/es/documentation/project-structure",
+    "name": "documentation-project-structure___ro",
+    "path": "/ro/documentation/project-structure",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/project-structure.vue",
-    "chunkName": "pages/documentation/project-structure",
-    "_name": "_28c05f36"
+    "chunkName": "pages/documentation/project-structure"
   },
   {
-    "name": "documentation-rtl___es",
-    "path": "/es/documentation/rtl",
+    "name": "documentation-rtl___ro",
+    "path": "/ro/documentation/rtl",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/rtl.vue",
-    "chunkName": "pages/documentation/rtl",
-    "_name": "_2cda43e0"
+    "chunkName": "pages/documentation/rtl"
   },
   {
-    "name": "documentation-settings___es",
-    "path": "/es/documentation/settings",
+    "name": "documentation-settings___ro",
+    "path": "/ro/documentation/settings",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/settings.vue",
-    "chunkName": "pages/documentation/settings",
-    "_name": "_0586f026"
+    "chunkName": "pages/documentation/settings"
   },
   {
-    "name": "documentation-sidebar___es",
-    "path": "/es/documentation/sidebar",
+    "name": "documentation-sidebar___ro",
+    "path": "/ro/documentation/sidebar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/sidebar.vue",
-    "chunkName": "pages/documentation/sidebar",
-    "_name": "_e900a1fc"
+    "chunkName": "pages/documentation/sidebar"
   },
   {
-    "name": "documentation-sidebar-menu___es",
-    "path": "/es/documentation/sidebar-menu",
+    "name": "documentation-sidebar-menu___ro",
+    "path": "/ro/documentation/sidebar-menu",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/sidebar-menu.vue",
-    "chunkName": "pages/documentation/sidebar-menu",
-    "_name": "_08a08d0c"
+    "chunkName": "pages/documentation/sidebar-menu"
   },
   {
-    "name": "documentation-translation___es",
-    "path": "/es/documentation/translation",
+    "name": "documentation-translation___ro",
+    "path": "/ro/documentation/translation",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/translation.vue",
-    "chunkName": "pages/documentation/translation",
-    "_name": "_528facd7"
+    "chunkName": "pages/documentation/translation"
   },
   {
-    "name": "documentation-vuex-store___es",
-    "path": "/es/documentation/vuex-store",
+    "name": "documentation-vuex-store___ro",
+    "path": "/ro/documentation/vuex-store",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/documentation/vuex-store.vue",
-    "chunkName": "pages/documentation/vuex-store",
-    "_name": "_cfc3b660"
+    "chunkName": "pages/documentation/vuex-store"
   },
   {
-    "name": "instructor-courses___es",
-    "path": "/es/instructor/courses",
+    "name": "instructor-courses___ro",
+    "path": "/ro/instructor/courses",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/courses.vue",
-    "chunkName": "pages/instructor/courses",
-    "_name": "_812e804a"
+    "chunkName": "pages/instructor/courses"
   },
   {
-    "name": "instructor-dashboard___es",
-    "path": "/es/instructor/dashboard",
+    "name": "instructor-dashboard___ro",
+    "path": "/ro/instructor/dashboard",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/dashboard.vue",
-    "chunkName": "pages/instructor/dashboard",
-    "_name": "_475881f7"
+    "chunkName": "pages/instructor/dashboard"
   },
   {
-    "name": "instructor-earnings___es",
-    "path": "/es/instructor/earnings",
+    "name": "instructor-earnings___ro",
+    "path": "/ro/instructor/earnings",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/earnings.vue",
-    "chunkName": "pages/instructor/earnings",
-    "_name": "_b1bf02d4"
+    "chunkName": "pages/instructor/earnings"
   },
   {
-    "name": "instructor-edit-course___es",
-    "path": "/es/instructor/edit-course",
+    "name": "instructor-edit-course___ro",
+    "path": "/ro/instructor/edit-course",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/edit-course.vue",
-    "chunkName": "pages/instructor/edit-course",
-    "_name": "_43c788e1"
+    "chunkName": "pages/instructor/edit-course"
   },
   {
-    "name": "instructor-edit-quiz___es",
-    "path": "/es/instructor/edit-quiz",
+    "name": "instructor-edit-quiz___ro",
+    "path": "/ro/instructor/edit-quiz",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/edit-quiz.vue",
-    "chunkName": "pages/instructor/edit-quiz",
-    "_name": "_20e1319b"
+    "chunkName": "pages/instructor/edit-quiz"
   },
   {
-    "name": "instructor-quizzes___es",
-    "path": "/es/instructor/quizzes",
+    "name": "instructor-quizzes___ro",
+    "path": "/ro/instructor/quizzes",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/quizzes.vue",
-    "chunkName": "pages/instructor/quizzes",
-    "_name": "_5bc2fed6"
+    "chunkName": "pages/instructor/quizzes"
   },
   {
-    "name": "instructor-statement___es",
-    "path": "/es/instructor/statement",
+    "name": "instructor-statement___ro",
+    "path": "/ro/instructor/statement",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/instructor/statement.vue",
-    "chunkName": "pages/instructor/statement",
-    "_name": "_ed78495c"
+    "chunkName": "pages/instructor/statement"
   },
   {
-    "name": "landing-luma-bootstrap-html___es",
-    "path": "/es/landing/luma-bootstrap-html",
+    "name": "landing-luma-bootstrap-html___ro",
+    "path": "/ro/landing/luma-bootstrap-html",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/landing/luma-bootstrap-html.vue",
-    "chunkName": "pages/landing/luma-bootstrap-html",
-    "_name": "_5d8050dd"
+    "chunkName": "pages/landing/luma-bootstrap-html"
   },
   {
-    "name": "landing-luma-vue-nuxt___es",
-    "path": "/es/landing/luma-vue-nuxt",
+    "name": "landing-luma-vue-nuxt___ro",
+    "path": "/ro/landing/luma-vue-nuxt",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/landing/luma-vue-nuxt.vue",
-    "chunkName": "pages/landing/luma-vue-nuxt",
-    "_name": "_a0139746"
+    "chunkName": "pages/landing/luma-vue-nuxt"
   },
   {
-    "name": "student-course___es",
-    "path": "/es/student/course",
+    "name": "student-course___ro",
+    "path": "/ro/student/course",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/course.vue",
-    "chunkName": "pages/student/course",
-    "_name": "_fab047f8"
+    "chunkName": "pages/student/course"
   },
   {
-    "name": "student-courses___es",
-    "path": "/es/student/courses",
+    "name": "student-courses___ro",
+    "path": "/ro/student/courses",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/courses.vue",
-    "chunkName": "pages/student/courses",
-    "_name": "_540174c2"
+    "chunkName": "pages/student/courses"
   },
   {
-    "name": "student-dashboard___es",
-    "path": "/es/student/dashboard",
+    "name": "student-dashboard___ro",
+    "path": "/ro/student/dashboard",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/dashboard.vue",
-    "chunkName": "pages/student/dashboard",
-    "_name": "_1264a6bb"
+    "chunkName": "pages/student/dashboard"
   },
   {
-    "name": "student-home___es",
-    "path": "/es/student/home",
+    "name": "student-home___ro",
+    "path": "/ro/student/home",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/home.vue",
-    "chunkName": "pages/student/home",
-    "_name": "_424d6f08"
+    "chunkName": "pages/student/home"
   },
   {
-    "name": "student-lesson___es",
-    "path": "/es/student/lesson",
+    "name": "student-lesson___ro",
+    "path": "/ro/student/lesson",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/lesson.vue",
-    "chunkName": "pages/student/lesson",
-    "_name": "_a5405abe"
+    "chunkName": "pages/student/lesson"
   },
   {
-    "name": "student-my-courses___es",
-    "path": "/es/student/my-courses",
+    "name": "student-my-courses___ro",
+    "path": "/ro/student/my-courses",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/my-courses.vue",
-    "chunkName": "pages/student/my-courses",
-    "_name": "_f46b9400"
+    "chunkName": "pages/student/my-courses"
   },
   {
-    "name": "student-my-paths___es",
-    "path": "/es/student/my-paths",
+    "name": "student-my-paths___ro",
+    "path": "/ro/student/my-paths",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/my-paths.vue",
-    "chunkName": "pages/student/my-paths",
-    "_name": "_31b25794"
+    "chunkName": "pages/student/my-paths"
   },
   {
-    "name": "student-my-quizzes___es",
-    "path": "/es/student/my-quizzes",
+    "name": "student-my-quizzes___ro",
+    "path": "/ro/student/my-quizzes",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/my-quizzes.vue",
-    "chunkName": "pages/student/my-quizzes",
-    "_name": "_222474fb"
+    "chunkName": "pages/student/my-quizzes"
   },
   {
-    "name": "student-path___es",
-    "path": "/es/student/path",
+    "name": "student-path___ro",
+    "path": "/ro/student/path",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/path.vue",
-    "chunkName": "pages/student/path",
-    "_name": "_ae486964"
+    "chunkName": "pages/student/path"
   },
   {
-    "name": "student-paths___es",
-    "path": "/es/student/paths",
+    "name": "student-paths___ro",
+    "path": "/ro/student/paths",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/paths.vue",
-    "chunkName": "pages/student/paths",
-    "_name": "_76493f95"
+    "chunkName": "pages/student/paths"
   },
   {
-    "name": "student-quiz-result___es",
-    "path": "/es/student/quiz-result",
+    "name": "student-quiz-result___ro",
+    "path": "/ro/student/quiz-result",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/quiz-result.vue",
-    "chunkName": "pages/student/quiz-result",
-    "_name": "_29fde27c"
+    "chunkName": "pages/student/quiz-result"
   },
   {
-    "name": "student-skill-assessment___es",
-    "path": "/es/student/skill-assessment",
+    "name": "student-skill-assessment___ro",
+    "path": "/ro/student/skill-assessment",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/skill-assessment.vue",
-    "chunkName": "pages/student/skill-assessment",
-    "_name": "_289fcce7"
+    "chunkName": "pages/student/skill-assessment"
   },
   {
-    "name": "student-skill-result___es",
-    "path": "/es/student/skill-result",
+    "name": "student-skill-result___ro",
+    "path": "/ro/student/skill-result",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/skill-result.vue",
-    "chunkName": "pages/student/skill-result",
-    "_name": "_5c9e8742"
+    "chunkName": "pages/student/skill-result"
   },
   {
-    "name": "student-take-course___es",
-    "path": "/es/student/take-course",
+    "name": "student-take-course___ro",
+    "path": "/ro/student/take-course",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/take-course.vue",
-    "chunkName": "pages/student/take-course",
-    "_name": "_f78673f0"
+    "chunkName": "pages/student/take-course"
   },
   {
-    "name": "student-take-lesson___es",
-    "path": "/es/student/take-lesson",
+    "name": "student-take-lesson___ro",
+    "path": "/ro/student/take-lesson",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/take-lesson.vue",
-    "chunkName": "pages/student/take-lesson",
-    "_name": "_a21686b6"
+    "chunkName": "pages/student/take-lesson"
   },
   {
-    "name": "student-take-quiz___es",
-    "path": "/es/student/take-quiz",
+    "name": "student-take-quiz___ro",
+    "path": "/ro/student/take-quiz",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/student/take-quiz.vue",
-    "chunkName": "pages/student/take-quiz",
-    "_name": "_affce6fc"
+    "chunkName": "pages/student/take-quiz"
   },
   {
     "name": "components-plugins-charts-area-chart___en",
     "path": "/components/plugins/charts/area-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/area-chart.vue",
-    "chunkName": "pages/components/plugins/charts/area-chart",
-    "_name": "_022f60f6"
+    "chunkName": "pages/components/plugins/charts/area-chart"
   },
   {
     "name": "components-plugins-charts-bar-chart___en",
     "path": "/components/plugins/charts/bar-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/bar-chart.vue",
-    "chunkName": "pages/components/plugins/charts/bar-chart",
-    "_name": "_7e33eb0d"
+    "chunkName": "pages/components/plugins/charts/bar-chart"
   },
   {
     "name": "components-plugins-charts-doughnut-chart___en",
     "path": "/components/plugins/charts/doughnut-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/doughnut-chart.vue",
-    "chunkName": "pages/components/plugins/charts/doughnut-chart",
-    "_name": "_77c8d13a"
+    "chunkName": "pages/components/plugins/charts/doughnut-chart"
   },
   {
     "name": "components-plugins-charts-line-chart___en",
     "path": "/components/plugins/charts/line-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/line-chart.vue",
-    "chunkName": "pages/components/plugins/charts/line-chart",
-    "_name": "_2cb34ba8"
+    "chunkName": "pages/components/plugins/charts/line-chart"
   },
   {
     "name": "components-plugins-charts-radar-chart___en",
     "path": "/components/plugins/charts/radar-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/radar-chart.vue",
-    "chunkName": "pages/components/plugins/charts/radar-chart",
-    "_name": "_1f168400"
+    "chunkName": "pages/components/plugins/charts/radar-chart"
   },
   {
-    "name": "account-edit-basic___es",
-    "path": "/es/account/edit/basic",
+    "name": "account-edit-basic___ro",
+    "path": "/ro/account/edit/basic",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/basic.vue",
-    "chunkName": "pages/account/edit/basic",
-    "_name": "_2dfc4220"
+    "chunkName": "pages/account/edit/basic"
   },
   {
-    "name": "account-edit-payment-history___es",
-    "path": "/es/account/edit/payment-history",
+    "name": "account-edit-payment-history___ro",
+    "path": "/ro/account/edit/payment-history",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/payment-history.vue",
-    "chunkName": "pages/account/edit/payment-history",
-    "_name": "_cbcf1c82"
+    "chunkName": "pages/account/edit/payment-history"
   },
   {
-    "name": "account-edit-payment-information___es",
-    "path": "/es/account/edit/payment-information",
+    "name": "account-edit-payment-information___ro",
+    "path": "/ro/account/edit/payment-information",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/payment-information.vue",
-    "chunkName": "pages/account/edit/payment-information",
-    "_name": "_521a74d7"
+    "chunkName": "pages/account/edit/payment-information"
   },
   {
-    "name": "account-edit-profile___es",
-    "path": "/es/account/edit/profile",
+    "name": "account-edit-profile___ro",
+    "path": "/ro/account/edit/profile",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/profile.vue",
-    "chunkName": "pages/account/edit/profile",
-    "_name": "_1ac3939b"
+    "chunkName": "pages/account/edit/profile"
   },
   {
-    "name": "account-edit-subscription___es",
-    "path": "/es/account/edit/subscription",
+    "name": "account-edit-subscription___ro",
+    "path": "/ro/account/edit/subscription",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/subscription.vue",
-    "chunkName": "pages/account/edit/subscription",
-    "_name": "_f55f8cca"
+    "chunkName": "pages/account/edit/subscription"
   },
   {
-    "name": "account-edit-upgrade___es",
-    "path": "/es/account/edit/upgrade",
+    "name": "account-edit-upgrade___ro",
+    "path": "/ro/account/edit/upgrade",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/account/edit/upgrade.vue",
-    "chunkName": "pages/account/edit/upgrade",
-    "_name": "_bb8b9ae4"
+    "chunkName": "pages/account/edit/upgrade"
   },
   {
-    "name": "components-layout-drawer___es",
-    "path": "/es/components/layout/drawer",
+    "name": "components-layout-drawer___ro",
+    "path": "/ro/components/layout/drawer",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/drawer.vue",
-    "chunkName": "pages/components/layout/drawer",
-    "_name": "_976a0adc"
+    "chunkName": "pages/components/layout/drawer"
   },
   {
-    "name": "components-layout-drawer-layout___es",
-    "path": "/es/components/layout/drawer-layout",
+    "name": "components-layout-drawer-layout___ro",
+    "path": "/ro/components/layout/drawer-layout",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/drawer-layout.vue",
-    "chunkName": "pages/components/layout/drawer-layout",
-    "_name": "_0f231f75"
+    "chunkName": "pages/components/layout/drawer-layout"
   },
   {
-    "name": "components-layout-header___es",
-    "path": "/es/components/layout/header",
+    "name": "components-layout-header___ro",
+    "path": "/ro/components/layout/header",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/header.vue",
-    "chunkName": "pages/components/layout/header",
-    "_name": "_10e0b62e"
+    "chunkName": "pages/components/layout/header"
   },
   {
-    "name": "components-layout-header-layout___es",
-    "path": "/es/components/layout/header-layout",
+    "name": "components-layout-header-layout___ro",
+    "path": "/ro/components/layout/header-layout",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/header-layout.vue",
-    "chunkName": "pages/components/layout/header-layout",
-    "_name": "_19ec5c59"
+    "chunkName": "pages/components/layout/header-layout"
   },
   {
-    "name": "components-layout-perfect-scrollbar___es",
-    "path": "/es/components/layout/perfect-scrollbar",
+    "name": "components-layout-perfect-scrollbar___ro",
+    "path": "/ro/components/layout/perfect-scrollbar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/perfect-scrollbar.vue",
-    "chunkName": "pages/components/layout/perfect-scrollbar",
-    "_name": "_7237bcd5"
+    "chunkName": "pages/components/layout/perfect-scrollbar"
   },
   {
-    "name": "components-layout-sidebar___es",
-    "path": "/es/components/layout/sidebar",
+    "name": "components-layout-sidebar___ro",
+    "path": "/ro/components/layout/sidebar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/sidebar.vue",
-    "chunkName": "pages/components/layout/sidebar",
-    "_name": "_a2731cea"
+    "chunkName": "pages/components/layout/sidebar"
   },
   {
-    "name": "components-layout-sidebar-menu___es",
-    "path": "/es/components/layout/sidebar-menu",
+    "name": "components-layout-sidebar-menu___ro",
+    "path": "/ro/components/layout/sidebar-menu",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/layout/sidebar-menu.vue",
-    "chunkName": "pages/components/layout/sidebar-menu",
-    "_name": "_2bcbb6de"
+    "chunkName": "pages/components/layout/sidebar-menu"
   },
   {
-    "name": "components-plugins-syntax-highlight___es",
-    "path": "/es/components/plugins/syntax-highlight",
+    "name": "components-plugins-syntax-highlight___ro",
+    "path": "/ro/components/plugins/syntax-highlight",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/syntax-highlight.vue",
-    "chunkName": "pages/components/plugins/syntax-highlight",
-    "_name": "_036ec5ed"
+    "chunkName": "pages/components/plugins/syntax-highlight"
   },
   {
-    "name": "components-ui-alerts___es",
-    "path": "/es/components/ui/alerts",
+    "name": "components-ui-alerts___ro",
+    "path": "/ro/components/ui/alerts",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/alerts.vue",
-    "chunkName": "pages/components/ui/alerts",
-    "_name": "_7d30498e"
+    "chunkName": "pages/components/ui/alerts"
   },
   {
-    "name": "components-ui-avatar___es",
-    "path": "/es/components/ui/avatar",
+    "name": "components-ui-avatar___ro",
+    "path": "/ro/components/ui/avatar",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/avatar.vue",
-    "chunkName": "pages/components/ui/avatar",
-    "_name": "_1cab9160"
+    "chunkName": "pages/components/ui/avatar"
   },
   {
-    "name": "components-ui-cards___es",
-    "path": "/es/components/ui/cards",
+    "name": "components-ui-cards___ro",
+    "path": "/ro/components/ui/cards",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/cards.vue",
-    "chunkName": "pages/components/ui/cards",
-    "_name": "_1bfa20bc"
+    "chunkName": "pages/components/ui/cards"
   },
   {
-    "name": "components-ui-form-image-group___es",
-    "path": "/es/components/ui/form-image-group",
+    "name": "components-ui-form-image-group___ro",
+    "path": "/ro/components/ui/form-image-group",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/form-image-group.vue",
-    "chunkName": "pages/components/ui/form-image-group",
-    "_name": "_05ce39bb"
+    "chunkName": "pages/components/ui/form-image-group"
   },
   {
-    "name": "components-ui-forms___es",
-    "path": "/es/components/ui/forms",
+    "name": "components-ui-forms___ro",
+    "path": "/ro/components/ui/forms",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/forms.vue",
-    "chunkName": "pages/components/ui/forms",
-    "_name": "_d31900f0"
+    "chunkName": "pages/components/ui/forms"
   },
   {
-    "name": "components-ui-icons___es",
-    "path": "/es/components/ui/icons",
+    "name": "components-ui-icons___ro",
+    "path": "/ro/components/ui/icons",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/icons.vue",
-    "chunkName": "pages/components/ui/icons",
-    "_name": "_50964e1a"
+    "chunkName": "pages/components/ui/icons"
   },
   {
-    "name": "components-ui-input-group-merge___es",
-    "path": "/es/components/ui/input-group-merge",
+    "name": "components-ui-input-group-merge___ro",
+    "path": "/ro/components/ui/input-group-merge",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/input-group-merge.vue",
-    "chunkName": "pages/components/ui/input-group-merge",
-    "_name": "_6002c880"
+    "chunkName": "pages/components/ui/input-group-merge"
   },
   {
-    "name": "components-ui-tabs___es",
-    "path": "/es/components/ui/tabs",
+    "name": "components-ui-tabs___ro",
+    "path": "/ro/components/ui/tabs",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/ui/tabs.vue",
-    "chunkName": "pages/components/ui/tabs",
-    "_name": "_77ff0a96"
+    "chunkName": "pages/components/ui/tabs"
   },
   {
-    "name": "components-plugins-charts-area-chart___es",
-    "path": "/es/components/plugins/charts/area-chart",
+    "name": "components-plugins-charts-area-chart___ro",
+    "path": "/ro/components/plugins/charts/area-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/area-chart.vue",
-    "chunkName": "pages/components/plugins/charts/area-chart",
-    "_name": "_022f60f6"
+    "chunkName": "pages/components/plugins/charts/area-chart"
   },
   {
-    "name": "components-plugins-charts-bar-chart___es",
-    "path": "/es/components/plugins/charts/bar-chart",
+    "name": "components-plugins-charts-bar-chart___ro",
+    "path": "/ro/components/plugins/charts/bar-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/bar-chart.vue",
-    "chunkName": "pages/components/plugins/charts/bar-chart",
-    "_name": "_7e33eb0d"
+    "chunkName": "pages/components/plugins/charts/bar-chart"
   },
   {
-    "name": "components-plugins-charts-doughnut-chart___es",
-    "path": "/es/components/plugins/charts/doughnut-chart",
+    "name": "components-plugins-charts-doughnut-chart___ro",
+    "path": "/ro/components/plugins/charts/doughnut-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/doughnut-chart.vue",
-    "chunkName": "pages/components/plugins/charts/doughnut-chart",
-    "_name": "_77c8d13a"
+    "chunkName": "pages/components/plugins/charts/doughnut-chart"
   },
   {
-    "name": "components-plugins-charts-line-chart___es",
-    "path": "/es/components/plugins/charts/line-chart",
+    "name": "components-plugins-charts-line-chart___ro",
+    "path": "/ro/components/plugins/charts/line-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/line-chart.vue",
-    "chunkName": "pages/components/plugins/charts/line-chart",
-    "_name": "_2cb34ba8"
+    "chunkName": "pages/components/plugins/charts/line-chart"
   },
   {
-    "name": "components-plugins-charts-radar-chart___es",
-    "path": "/es/components/plugins/charts/radar-chart",
+    "name": "components-plugins-charts-radar-chart___ro",
+    "path": "/ro/components/plugins/charts/radar-chart",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/components/plugins/charts/radar-chart.vue",
-    "chunkName": "pages/components/plugins/charts/radar-chart",
-    "_name": "_1f168400"
+    "chunkName": "pages/components/plugins/charts/radar-chart"
   },
   {
     "name": "index___en",
     "path": "/",
     "component": "/Users/fran/Documents/Proyectos/myblueeye/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_51664f4d"
+    "chunkName": "pages/index"
   }
 ]

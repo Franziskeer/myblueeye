@@ -4,12 +4,12 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _3d6ce610 = () => interopDefault(import('../pages/documentation/index.vue' /* webpackChunkName: "pages/documentation/index" */))
-const _51664f4d = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _b887f180 = () => interopDefault(import('../pages/forgot-password.vue' /* webpackChunkName: "pages/forgot-password" */))
 const _1e944a55 = () => interopDefault(import('../pages/landing/index.vue' /* webpackChunkName: "pages/landing/index" */))
 const _1b0df264 = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
 const _3480b221 = () => interopDefault(import('../pages/messages.vue' /* webpackChunkName: "pages/messages" */))
 const _466100fe = () => interopDefault(import('../pages/pricing.vue' /* webpackChunkName: "pages/pricing" */))
+const _51664f4d = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _d9eb71a6 = () => interopDefault(import('../pages/signup.vue' /* webpackChunkName: "pages/signup" */))
 const _743760f4 = () => interopDefault(import('../pages/account/invoice.vue' /* webpackChunkName: "pages/account/invoice" */))
 const _bec029c6 = () => interopDefault(import('../pages/community/blog.vue' /* webpackChunkName: "pages/community/blog" */))
@@ -108,10 +108,6 @@ export const routerOptions = {
     component: _3d6ce610,
     name: "documentation___en"
   }, {
-    path: "/es",
-    component: _51664f4d,
-    name: "index___es"
-  }, {
     path: "/forgot-password",
     component: _b887f180,
     name: "forgot-password___en"
@@ -131,6 +127,10 @@ export const routerOptions = {
     path: "/pricing",
     component: _466100fe,
     name: "pricing___en"
+  }, {
+    path: "/ro",
+    component: _51664f4d,
+    name: "index___ro"
   }, {
     path: "/signup",
     component: _d9eb71a6,
@@ -228,34 +228,6 @@ export const routerOptions = {
     component: _cfc3b660,
     name: "documentation-vuex-store___en"
   }, {
-    path: "/es/documentation",
-    component: _3d6ce610,
-    name: "documentation___es"
-  }, {
-    path: "/es/forgot-password",
-    component: _b887f180,
-    name: "forgot-password___es"
-  }, {
-    path: "/es/landing",
-    component: _1e944a55,
-    name: "landing___es"
-  }, {
-    path: "/es/login",
-    component: _1b0df264,
-    name: "login___es"
-  }, {
-    path: "/es/messages",
-    component: _3480b221,
-    name: "messages___es"
-  }, {
-    path: "/es/pricing",
-    component: _466100fe,
-    name: "pricing___es"
-  }, {
-    path: "/es/signup",
-    component: _d9eb71a6,
-    name: "signup___es"
-  }, {
     path: "/instructor/courses",
     component: _812e804a,
     name: "instructor-courses___en"
@@ -291,6 +263,34 @@ export const routerOptions = {
     path: "/landing/luma-vue-nuxt",
     component: _a0139746,
     name: "landing-luma-vue-nuxt___en"
+  }, {
+    path: "/ro/documentation",
+    component: _3d6ce610,
+    name: "documentation___ro"
+  }, {
+    path: "/ro/forgot-password",
+    component: _b887f180,
+    name: "forgot-password___ro"
+  }, {
+    path: "/ro/landing",
+    component: _1e944a55,
+    name: "landing___ro"
+  }, {
+    path: "/ro/login",
+    component: _1b0df264,
+    name: "login___ro"
+  }, {
+    path: "/ro/messages",
+    component: _3480b221,
+    name: "messages___ro"
+  }, {
+    path: "/ro/pricing",
+    component: _466100fe,
+    name: "pricing___ro"
+  }, {
+    path: "/ro/signup",
+    component: _d9eb71a6,
+    name: "signup___ro"
   }, {
     path: "/student/course",
     component: _fab047f8,
@@ -444,197 +444,197 @@ export const routerOptions = {
     component: _77ff0a96,
     name: "components-ui-tabs___en"
   }, {
-    path: "/es/account/invoice",
+    path: "/ro/account/invoice",
     component: _743760f4,
-    name: "account-invoice___es"
+    name: "account-invoice___ro"
   }, {
-    path: "/es/community/blog",
+    path: "/ro/community/blog",
     component: _bec029c6,
-    name: "community-blog___es"
+    name: "community-blog___ro"
   }, {
-    path: "/es/community/blog-post",
+    path: "/ro/community/blog-post",
     component: _06f85e00,
-    name: "community-blog-post___es"
+    name: "community-blog-post___ro"
   }, {
-    path: "/es/community/discussion",
+    path: "/ro/community/discussion",
     component: _52350a63,
-    name: "community-discussion___es"
+    name: "community-discussion___ro"
   }, {
-    path: "/es/community/discussions",
+    path: "/ro/community/discussions",
     component: _0fd039c0,
-    name: "community-discussions___es"
+    name: "community-discussions___ro"
   }, {
-    path: "/es/community/discussions-ask",
+    path: "/ro/community/discussions-ask",
     component: _59224f68,
-    name: "community-discussions-ask___es"
+    name: "community-discussions-ask___ro"
   }, {
-    path: "/es/community/faq",
+    path: "/ro/community/faq",
     component: _7bb2d06b,
-    name: "community-faq___es"
+    name: "community-faq___ro"
   }, {
-    path: "/es/community/help-center",
+    path: "/ro/community/help-center",
     component: _76528736,
-    name: "community-help-center___es"
+    name: "community-help-center___ro"
   }, {
-    path: "/es/community/instructor-profile",
+    path: "/ro/community/instructor-profile",
     component: _34810198,
-    name: "community-instructor-profile___es"
+    name: "community-instructor-profile___ro"
   }, {
-    path: "/es/community/student-profile",
+    path: "/ro/community/student-profile",
     component: _7f1ea528,
-    name: "community-student-profile___es"
+    name: "community-student-profile___ro"
   }, {
-    path: "/es/community/teachers",
+    path: "/ro/community/teachers",
     component: _122cd968,
-    name: "community-teachers___es"
+    name: "community-teachers___ro"
   }, {
-    path: "/es/documentation/components",
+    path: "/ro/documentation/components",
     component: _baa48e40,
-    name: "documentation-components___es"
+    name: "documentation-components___ro"
   }, {
-    path: "/es/documentation/installation",
+    path: "/ro/documentation/installation",
     component: _dd54c4f8,
-    name: "documentation-installation___es"
+    name: "documentation-installation___ro"
   }, {
-    path: "/es/documentation/layouts",
+    path: "/ro/documentation/layouts",
     component: _1cecafaf,
-    name: "documentation-layouts___es"
+    name: "documentation-layouts___ro"
   }, {
-    path: "/es/documentation/navbar",
+    path: "/ro/documentation/navbar",
     component: _115e2dda,
-    name: "documentation-navbar___es"
+    name: "documentation-navbar___ro"
   }, {
-    path: "/es/documentation/pages",
+    path: "/ro/documentation/pages",
     component: _47258aea,
-    name: "documentation-pages___es"
+    name: "documentation-pages___ro"
   }, {
-    path: "/es/documentation/project-structure",
+    path: "/ro/documentation/project-structure",
     component: _28c05f36,
-    name: "documentation-project-structure___es"
+    name: "documentation-project-structure___ro"
   }, {
-    path: "/es/documentation/rtl",
+    path: "/ro/documentation/rtl",
     component: _2cda43e0,
-    name: "documentation-rtl___es"
+    name: "documentation-rtl___ro"
   }, {
-    path: "/es/documentation/settings",
+    path: "/ro/documentation/settings",
     component: _0586f026,
-    name: "documentation-settings___es"
+    name: "documentation-settings___ro"
   }, {
-    path: "/es/documentation/sidebar",
+    path: "/ro/documentation/sidebar",
     component: _e900a1fc,
-    name: "documentation-sidebar___es"
+    name: "documentation-sidebar___ro"
   }, {
-    path: "/es/documentation/sidebar-menu",
+    path: "/ro/documentation/sidebar-menu",
     component: _08a08d0c,
-    name: "documentation-sidebar-menu___es"
+    name: "documentation-sidebar-menu___ro"
   }, {
-    path: "/es/documentation/translation",
+    path: "/ro/documentation/translation",
     component: _528facd7,
-    name: "documentation-translation___es"
+    name: "documentation-translation___ro"
   }, {
-    path: "/es/documentation/vuex-store",
+    path: "/ro/documentation/vuex-store",
     component: _cfc3b660,
-    name: "documentation-vuex-store___es"
+    name: "documentation-vuex-store___ro"
   }, {
-    path: "/es/instructor/courses",
+    path: "/ro/instructor/courses",
     component: _812e804a,
-    name: "instructor-courses___es"
+    name: "instructor-courses___ro"
   }, {
-    path: "/es/instructor/dashboard",
+    path: "/ro/instructor/dashboard",
     component: _475881f7,
-    name: "instructor-dashboard___es"
+    name: "instructor-dashboard___ro"
   }, {
-    path: "/es/instructor/earnings",
+    path: "/ro/instructor/earnings",
     component: _b1bf02d4,
-    name: "instructor-earnings___es"
+    name: "instructor-earnings___ro"
   }, {
-    path: "/es/instructor/edit-course",
+    path: "/ro/instructor/edit-course",
     component: _43c788e1,
-    name: "instructor-edit-course___es"
+    name: "instructor-edit-course___ro"
   }, {
-    path: "/es/instructor/edit-quiz",
+    path: "/ro/instructor/edit-quiz",
     component: _20e1319b,
-    name: "instructor-edit-quiz___es"
+    name: "instructor-edit-quiz___ro"
   }, {
-    path: "/es/instructor/quizzes",
+    path: "/ro/instructor/quizzes",
     component: _5bc2fed6,
-    name: "instructor-quizzes___es"
+    name: "instructor-quizzes___ro"
   }, {
-    path: "/es/instructor/statement",
+    path: "/ro/instructor/statement",
     component: _ed78495c,
-    name: "instructor-statement___es"
+    name: "instructor-statement___ro"
   }, {
-    path: "/es/landing/luma-bootstrap-html",
+    path: "/ro/landing/luma-bootstrap-html",
     component: _5d8050dd,
-    name: "landing-luma-bootstrap-html___es"
+    name: "landing-luma-bootstrap-html___ro"
   }, {
-    path: "/es/landing/luma-vue-nuxt",
+    path: "/ro/landing/luma-vue-nuxt",
     component: _a0139746,
-    name: "landing-luma-vue-nuxt___es"
+    name: "landing-luma-vue-nuxt___ro"
   }, {
-    path: "/es/student/course",
+    path: "/ro/student/course",
     component: _fab047f8,
-    name: "student-course___es"
+    name: "student-course___ro"
   }, {
-    path: "/es/student/courses",
+    path: "/ro/student/courses",
     component: _540174c2,
-    name: "student-courses___es"
+    name: "student-courses___ro"
   }, {
-    path: "/es/student/dashboard",
+    path: "/ro/student/dashboard",
     component: _1264a6bb,
-    name: "student-dashboard___es"
+    name: "student-dashboard___ro"
   }, {
-    path: "/es/student/home",
+    path: "/ro/student/home",
     component: _424d6f08,
-    name: "student-home___es"
+    name: "student-home___ro"
   }, {
-    path: "/es/student/lesson",
+    path: "/ro/student/lesson",
     component: _a5405abe,
-    name: "student-lesson___es"
+    name: "student-lesson___ro"
   }, {
-    path: "/es/student/my-courses",
+    path: "/ro/student/my-courses",
     component: _f46b9400,
-    name: "student-my-courses___es"
+    name: "student-my-courses___ro"
   }, {
-    path: "/es/student/my-paths",
+    path: "/ro/student/my-paths",
     component: _31b25794,
-    name: "student-my-paths___es"
+    name: "student-my-paths___ro"
   }, {
-    path: "/es/student/my-quizzes",
+    path: "/ro/student/my-quizzes",
     component: _222474fb,
-    name: "student-my-quizzes___es"
+    name: "student-my-quizzes___ro"
   }, {
-    path: "/es/student/path",
+    path: "/ro/student/path",
     component: _ae486964,
-    name: "student-path___es"
+    name: "student-path___ro"
   }, {
-    path: "/es/student/paths",
+    path: "/ro/student/paths",
     component: _76493f95,
-    name: "student-paths___es"
+    name: "student-paths___ro"
   }, {
-    path: "/es/student/quiz-result",
+    path: "/ro/student/quiz-result",
     component: _29fde27c,
-    name: "student-quiz-result___es"
+    name: "student-quiz-result___ro"
   }, {
-    path: "/es/student/skill-assessment",
+    path: "/ro/student/skill-assessment",
     component: _289fcce7,
-    name: "student-skill-assessment___es"
+    name: "student-skill-assessment___ro"
   }, {
-    path: "/es/student/skill-result",
+    path: "/ro/student/skill-result",
     component: _5c9e8742,
-    name: "student-skill-result___es"
+    name: "student-skill-result___ro"
   }, {
-    path: "/es/student/take-course",
+    path: "/ro/student/take-course",
     component: _f78673f0,
-    name: "student-take-course___es"
+    name: "student-take-course___ro"
   }, {
-    path: "/es/student/take-lesson",
+    path: "/ro/student/take-lesson",
     component: _a21686b6,
-    name: "student-take-lesson___es"
+    name: "student-take-lesson___ro"
   }, {
-    path: "/es/student/take-quiz",
+    path: "/ro/student/take-quiz",
     component: _affce6fc,
-    name: "student-take-quiz___es"
+    name: "student-take-quiz___ro"
   }, {
     path: "/components/plugins/charts/area-chart",
     component: _022f60f6,
@@ -656,113 +656,113 @@ export const routerOptions = {
     component: _1f168400,
     name: "components-plugins-charts-radar-chart___en"
   }, {
-    path: "/es/account/edit/basic",
+    path: "/ro/account/edit/basic",
     component: _2dfc4220,
-    name: "account-edit-basic___es"
+    name: "account-edit-basic___ro"
   }, {
-    path: "/es/account/edit/payment-history",
+    path: "/ro/account/edit/payment-history",
     component: _cbcf1c82,
-    name: "account-edit-payment-history___es"
+    name: "account-edit-payment-history___ro"
   }, {
-    path: "/es/account/edit/payment-information",
+    path: "/ro/account/edit/payment-information",
     component: _521a74d7,
-    name: "account-edit-payment-information___es"
+    name: "account-edit-payment-information___ro"
   }, {
-    path: "/es/account/edit/profile",
+    path: "/ro/account/edit/profile",
     component: _1ac3939b,
-    name: "account-edit-profile___es"
+    name: "account-edit-profile___ro"
   }, {
-    path: "/es/account/edit/subscription",
+    path: "/ro/account/edit/subscription",
     component: _f55f8cca,
-    name: "account-edit-subscription___es"
+    name: "account-edit-subscription___ro"
   }, {
-    path: "/es/account/edit/upgrade",
+    path: "/ro/account/edit/upgrade",
     component: _bb8b9ae4,
-    name: "account-edit-upgrade___es"
+    name: "account-edit-upgrade___ro"
   }, {
-    path: "/es/components/layout/drawer",
+    path: "/ro/components/layout/drawer",
     component: _976a0adc,
-    name: "components-layout-drawer___es"
+    name: "components-layout-drawer___ro"
   }, {
-    path: "/es/components/layout/drawer-layout",
+    path: "/ro/components/layout/drawer-layout",
     component: _0f231f75,
-    name: "components-layout-drawer-layout___es"
+    name: "components-layout-drawer-layout___ro"
   }, {
-    path: "/es/components/layout/header",
+    path: "/ro/components/layout/header",
     component: _10e0b62e,
-    name: "components-layout-header___es"
+    name: "components-layout-header___ro"
   }, {
-    path: "/es/components/layout/header-layout",
+    path: "/ro/components/layout/header-layout",
     component: _19ec5c59,
-    name: "components-layout-header-layout___es"
+    name: "components-layout-header-layout___ro"
   }, {
-    path: "/es/components/layout/perfect-scrollbar",
+    path: "/ro/components/layout/perfect-scrollbar",
     component: _7237bcd5,
-    name: "components-layout-perfect-scrollbar___es"
+    name: "components-layout-perfect-scrollbar___ro"
   }, {
-    path: "/es/components/layout/sidebar",
+    path: "/ro/components/layout/sidebar",
     component: _a2731cea,
-    name: "components-layout-sidebar___es"
+    name: "components-layout-sidebar___ro"
   }, {
-    path: "/es/components/layout/sidebar-menu",
+    path: "/ro/components/layout/sidebar-menu",
     component: _2bcbb6de,
-    name: "components-layout-sidebar-menu___es"
+    name: "components-layout-sidebar-menu___ro"
   }, {
-    path: "/es/components/plugins/syntax-highlight",
+    path: "/ro/components/plugins/syntax-highlight",
     component: _036ec5ed,
-    name: "components-plugins-syntax-highlight___es"
+    name: "components-plugins-syntax-highlight___ro"
   }, {
-    path: "/es/components/ui/alerts",
+    path: "/ro/components/ui/alerts",
     component: _7d30498e,
-    name: "components-ui-alerts___es"
+    name: "components-ui-alerts___ro"
   }, {
-    path: "/es/components/ui/avatar",
+    path: "/ro/components/ui/avatar",
     component: _1cab9160,
-    name: "components-ui-avatar___es"
+    name: "components-ui-avatar___ro"
   }, {
-    path: "/es/components/ui/cards",
+    path: "/ro/components/ui/cards",
     component: _1bfa20bc,
-    name: "components-ui-cards___es"
+    name: "components-ui-cards___ro"
   }, {
-    path: "/es/components/ui/form-image-group",
+    path: "/ro/components/ui/form-image-group",
     component: _05ce39bb,
-    name: "components-ui-form-image-group___es"
+    name: "components-ui-form-image-group___ro"
   }, {
-    path: "/es/components/ui/forms",
+    path: "/ro/components/ui/forms",
     component: _d31900f0,
-    name: "components-ui-forms___es"
+    name: "components-ui-forms___ro"
   }, {
-    path: "/es/components/ui/icons",
+    path: "/ro/components/ui/icons",
     component: _50964e1a,
-    name: "components-ui-icons___es"
+    name: "components-ui-icons___ro"
   }, {
-    path: "/es/components/ui/input-group-merge",
+    path: "/ro/components/ui/input-group-merge",
     component: _6002c880,
-    name: "components-ui-input-group-merge___es"
+    name: "components-ui-input-group-merge___ro"
   }, {
-    path: "/es/components/ui/tabs",
+    path: "/ro/components/ui/tabs",
     component: _77ff0a96,
-    name: "components-ui-tabs___es"
+    name: "components-ui-tabs___ro"
   }, {
-    path: "/es/components/plugins/charts/area-chart",
+    path: "/ro/components/plugins/charts/area-chart",
     component: _022f60f6,
-    name: "components-plugins-charts-area-chart___es"
+    name: "components-plugins-charts-area-chart___ro"
   }, {
-    path: "/es/components/plugins/charts/bar-chart",
+    path: "/ro/components/plugins/charts/bar-chart",
     component: _7e33eb0d,
-    name: "components-plugins-charts-bar-chart___es"
+    name: "components-plugins-charts-bar-chart___ro"
   }, {
-    path: "/es/components/plugins/charts/doughnut-chart",
+    path: "/ro/components/plugins/charts/doughnut-chart",
     component: _77c8d13a,
-    name: "components-plugins-charts-doughnut-chart___es"
+    name: "components-plugins-charts-doughnut-chart___ro"
   }, {
-    path: "/es/components/plugins/charts/line-chart",
+    path: "/ro/components/plugins/charts/line-chart",
     component: _2cb34ba8,
-    name: "components-plugins-charts-line-chart___es"
+    name: "components-plugins-charts-line-chart___ro"
   }, {
-    path: "/es/components/plugins/charts/radar-chart",
+    path: "/ro/components/plugins/charts/radar-chart",
     component: _1f168400,
-    name: "components-plugins-charts-radar-chart___es"
+    name: "components-plugins-charts-radar-chart___ro"
   }, {
     path: "/",
     component: _51664f4d,

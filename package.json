@@ -13,7 +13,7 @@
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint",
     "serve": "lite-server --baseDir=dist",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "deploy": "cp .surgeignore ./dist && surge --project ./dist --domain luma-nuxt-v1.0.0.dev.frontendmatter.com",
     "docs": "node --experimental-modules vuese.mjs"
   },
   "dependencies": {
@@ -68,7 +68,6 @@
     "nuxt": "^2.12.2",
     "postcss-rtl": "^1.5.0",
     "prettier": "^1.18.2",
-    "push-dir": "^0.4.1",
     "sass-loader": "^8.0.0",
     "surge": "^0.21.3"
   }
